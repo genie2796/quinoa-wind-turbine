@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "boxicons": "^2.1.4",
+    "heroicons": "^2.0.16",
+    "ionicons": "^6.1.3",
     "quinoa": "^0.3.1"
   }
 }
